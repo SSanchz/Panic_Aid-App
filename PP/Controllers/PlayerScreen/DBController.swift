@@ -10,7 +10,7 @@ import SwiftUI
 import AVKit
 
 struct DBController: View {
-    let audioFile = "piano"
+    let audioFile = "3MinuteBreathing"
     
     @State private var player: AVAudioPlayer?
     @State private var isplaying = false

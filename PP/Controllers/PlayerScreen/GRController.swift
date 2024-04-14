@@ -10,7 +10,7 @@ import SwiftUI
 import AVKit
 
 struct GRController: View {
-    let audioFile = "piano"
+    let audioFile = "BreathworksBodyScan"
     
     @State private var player: AVAudioPlayer?
     @State private var isplaying = false
