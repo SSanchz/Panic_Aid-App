@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; configuration.title = "Deep Breathing"; ObjectID = "RCH-YX-7ud"; */
+"RCH-YX-7ud.configuration.title" = "Deep Breathing";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RCH-YX-7ud"; */
+"RCH-YX-7ud.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Grounding"; ObjectID = "o0Q-ob-Gp7"; */
+"o0Q-ob-Gp7.configuration.title" = "Grounding";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "o0Q-ob-Gp7"; */
+"o0Q-ob-Gp7.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Mindfulness"; ObjectID = "xuw-ZZ-21R"; */
+"xuw-ZZ-21R.configuration.title" = "Mindfulness";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xuw-ZZ-21R"; */
+"xuw-ZZ-21R.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Keggel"; ObjectID = "zr0-gK-Da1"; */
+"zr0-gK-Da1.configuration.title" = "Keggel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zr0-gK-Da1"; */
+"zr0-gK-Da1.normalTitle" = "Button";
